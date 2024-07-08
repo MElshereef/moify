@@ -4,6 +4,7 @@
     --accent-color: #ff3400;
     --heading-color: #1b262f;
     --body-color: #4e4e4e;
+    --border-color: #ccc;
 }
 *, *::after, *::before {
     box-sizing: border-box;
@@ -215,8 +216,8 @@ a {
 
 /* Inputs */
 .input {
-    border-radius: 35px;
-    border: 1px solid #ccc;
+    border-radius: 30px;
+    border: 1px solid var(--border-color);
     color: var(--heading-color);
     font-size: 2rem;
     outline: 0;
@@ -225,6 +226,22 @@ a {
 
 ::placeholder {
     color: #cbcbd0;
+}
+
+.input-group {
+    border: 1px solid var(--border-color);
+    border-radius: 30px;
+    display: flex;
+}
+
+.input-group .input {
+    border: 0;
+    flex-grow: 1;
+    padding: 1.5rem 2rem;
+}
+
+.input-group .btn {
+    margin: 4px;
 }
 
 @media screen and (min-width: 1024px) {
