@@ -269,3 +269,58 @@ a {
     background: var(--secondary-color);
     color: #fff;
 }
+.card--secondary .badge--secondary {
+    background: #02cdf1;
+}
+.card--primary .badge--primary {
+    background: #126de4;
+}
+/* Plans */
+
+.plan__name {
+    color: #fff;
+    margin: 0;
+    font-weight: 500;
+    font-size: 2.4rem;
+}
+
+.plan__price {
+    font-size: 6rem;
+}
+
+.plan__billing-cycle {
+    font-size: 2.4rem;
+    font-weight: 300;
+    margin-right: 1rem;
+    opacity: 0.8;
+}
+
+.plan__description {
+    font-size: 2rem;
+    font-weight: 300;
+    letter-spacing: 1px;
+    display: block;
+}
+
+.plan .list__item {
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .plan__name {
+        font-size: 1.4rem;
+    }
+    
+    .plan__price {
+        font-size: 5rem;
+    }
+    
+    .plan__billing-cycle {
+        font-size: 1.6rem;
+    }
+    
+    .plan__description {
+        font-size: 1.7rem;
+    }
+}
