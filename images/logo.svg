@@ -1,33 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="209" height="54" viewBox="0 0 209 54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #2584ff;
-        stroke: #2584ff;
-      }
-
-      .cls-1, .cls-2 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 10px;
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #ff3400;
-        stroke: #ff3400;
-        mix-blend-mode: lighten;
-      }
-
-      .cls-3 {
-        font-size: 32.498px;
-        fill: #fff;
-        font-family: Inter;
-        font-weight: 700;
-      }
-    </style>
-  </defs>
-  <path id="Polygon_1_copy_2" data-name="Polygon 1 copy 2" class="cls-1" d="M43.851,29.7L24.244,39.2,32.037,14.02Z"/>
-  <path id="Polygon_1_copy_2-2" data-name="Polygon 1 copy 2" class="cls-2" d="M37.033,29.7L56.64,39.2,48.847,14.02Z"/>
-  <text id="Moshify" class="cls-3" transform="translate(71.466 35.437) scale(0.923)">Moshify</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="1cf2c663-083d-4549-a9a1-0bce098e0a74"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="c00166ef-5740-4369-be9a-ade4fe6a08b2"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 475.95 540.21)"  >
+<path style="stroke: rgb(37,132,255); stroke-width: 10; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(37,132,255); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-34.05, -26.61)" d="M 43.851 29.7 L 24.244 39.2 L 32.037 14.02 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 488.74 540.21)"  >
+<path style="stroke: rgb(255,52,0); stroke-width: 10; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,52,0); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-46.84, -26.61)" d="M 37.033 29.7 L 56.64 39.2 L 48.847 14.02 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 563.82 540)" style="" id="ee58d08d-f10a-44c3-83a0-9603a037aab5"  >
+		<text xml:space="preserve" font-family="Raleway" font-size="33" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(250,248,248); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-52.22" y="10.37" >MOIFY</tspan></text>
+</g>
 </svg>
